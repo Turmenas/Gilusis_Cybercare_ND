@@ -12,6 +12,6 @@
       "question": "I want to change my email",
       "answer": "To change your registered email address, follow these steps:\n1. Open the NordVPN email change request form.\n2. Fill in the required fields to verify your identity.\n   - **Account's current email**: Enter the email you currently use for NordVPN.\n   - **Contact email (Optional)**: Provide another email if you want support to contact you there.\n   - **Amount paid**: Enter the amount paid for any Nord product except the most recent one.\n   - **Method**: Select the payment method used (credit card, PayPal, etc.) for any purchase except the most recent one.\n   - **Payment date**: Select the date of any past Nord product purchase except the most recent one.\n   - **Desired email or username**: Enter the new email you want to use.\n   - **NordLocker / NordPass**: Indicate if you also have these accounts.\n   - **Description (Optional)**: Add any notes for support.\n   - **Attachments (Optional)**: Upload proof of payment (except the most recent one) to speed up verification.\n3. Click “Submit”.\n\nA support agent will contact you within 24 hours via your current registered email or the optional contact email provided."
     }
-    }
   ]
 }
+
