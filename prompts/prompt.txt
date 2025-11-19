@@ -1,16 +1,1 @@
-Kaip pasikeist slapyvardi?
-
-Galiu padėti — tik reikia daugiau informacijos.
-Kurioje vietoje nori pasikeisti slapyvardį?
-
-Pvz.:
-
-žaidime (kuriame?)
-
-socialiniame tinkle
-
-NordVPN / Nord Account (turime instrukcijas tik dėl el. pašto keitimo )
-
-kitame puslapyje ar programoje?
-
-Parašyk, kurioje platformoje, ir duosiu tikslias žingsnis-po-žingsnio instrukcijas.
+Using QnA.json as an example of how you should be dealing with a question and tech_support_dataset.csv for extra examples answer this customers question: How do I change my username?
