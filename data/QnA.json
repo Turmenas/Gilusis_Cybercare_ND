@@ -1,5 +1,5 @@
 {
-  "suuport": [
+  "support": [
     {
       "question": "How do cancel auto-renewal?",
       "answer": "If you have purchased your subscription directly from NordVPN and wish for your subscription to no longer renew at the subsequent billing date, you may cancel your subscription via your Nord Account. You can follow the same steps to cancel your NordPass, NordLocker, Dedicated IP, or bundle subscription services. To cancel the automatic renewal of your NordVPN subscription, follow these steps:\n1. Log in to your Nord Account.\n2. Open the Billing tab.\n3. Click 'Cancel' next to Auto-renewal.\n4. Select 'Cancel auto-renewal'.\nYour auto-renewal status will now change to off. You will receive a confirmation email if the cancellation is successful."
@@ -14,4 +14,5 @@
     }
   ]
 }
+
 
