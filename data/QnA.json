@@ -11,8 +11,55 @@
     {
       "question": "I want to change my email",
       "answer": "To change your registered email address, follow these steps:\n1. Open the NordVPN email change request form.\n2. Fill in the required fields to verify your identity.\n   - **Account's current email**: Enter the email you currently use for NordVPN.\n   - **Contact email (Optional)**: Provide another email if you want support to contact you there.\n   - **Amount paid**: Enter the amount paid for any Nord product except the most recent one.\n   - **Method**: Select the payment method used (credit card, PayPal, etc.) for any purchase except the most recent one.\n   - **Payment date**: Select the date of any past Nord product purchase except the most recent one.\n   - **Desired email or username**: Enter the new email you want to use.\n   - **NordLocker / NordPass**: Indicate if you also have these accounts.\n   - **Description (Optional)**: Add any notes for support.\n   - **Attachments (Optional)**: Upload proof of payment (except the most recent one) to speed up verification.\n3. Click “Submit”.\n\nA support agent will contact you within 24 hours via your current registered email or the optional contact email provided."
+    },
+    {
+      "question": "How do I get a refund?",
+      "answer": "NordVPN offers a 30-day money-back guarantee. If you are not satisfied with the service, you can request a refund within 30 days of your purchase. To initiate a refund, please contact our customer support team via live chat or email. \n\n**Note:** Subscriptions purchased via the Apple App Store must be refunded through Apple directly, as we do not have access to their billing system."
+    },
+    {
+      "question": "My internet speed is slow when connected to VPN",
+      "answer": "A slight drop in speed is normal due to encryption, but if it is significant, try these steps:\n1. **Connect to a closer server**: The physical distance to the server affects speed.\n2. **Change VPN Protocol**: Switch to NordLynx (Settings > Connection > VPN Protocol).\n3. **Restart your device and router**: This often clears connectivity glitches.\n4. **Pause security software**: Antivirus or firewalls can sometimes throttle VPN traffic.\n5. **Use a wired connection**: If possible, use Ethernet instead of Wi-Fi for better stability."
+    },
+    {
+      "question": "How many devices can I use simultaneously?",
+      "answer": "With a single NordVPN account, you can connect up to **10 devices** simultaneously. This applies to all operating systems (Windows, macOS, Android, iOS, Linux) and can also include your router. If you install NordVPN on your router, it counts as only one device, but it protects every device connected to that router's network."
+    },
+    {
+      "question": "What is Meshnet and how do I use it?",
+      "answer": "Meshnet is a feature that allows you to access devices over encrypted private tunnels without needing a central VPN server. It is useful for file sharing, gaming (LAN over WAN), or accessing your home PC while traveling.\n\nTo use it:\n1. Turn on Meshnet in the NordVPN app on all devices you want to connect.\n2. Link the devices by logging into the same Nord Account or sending an invitation to another user.\n3. Use the assigned Nord name or IP address to access the device remotely."
+    },
+    {
+      "question": "Can I watch Netflix or streaming services with NordVPN?",
+      "answer": "Yes, NordVPN allows you to securely access streaming services like Netflix, Hulu, BBC iPlayer, and others. \n\nTo access content:\n1. Connect to a VPN server in the country where the content is available (e.g., connect to a US server for US Netflix).\n2. Clear your browser cache or restart the streaming app.\n3. If you still encounter issues, try connecting to a different server city or contact support."
+    },
+    {
+      "question": "What are Obfuscated Servers?",
+      "answer": "Obfuscated servers are specialized VPN servers that hide the fact that you are using a VPN. They are recommended for use in countries with heavy internet restrictions (like China, Russia, or the UAE) or networks that block VPN traffic.\n\nTo enable them:\n1. Go to Settings > Connection.\n2. Change the VPN Protocol to **OpenVPN (TCP)** or **OpenVPN (UDP)**.\n3. Return to the main screen, open the server list, and select 'Obfuscated Servers'."
+    },
+    {
+      "question": "How do I set up NordVPN on my router?",
+      "answer": "Setting up NordVPN on a router protects all devices on your home network. \n\n**Requirements:**\n- A router that supports OpenVPN client mode (e.g., ASUS Merlin, DD-WRT, Gl.iNet).\n\n**Steps:**\n1. Download the OpenVPN configuration files (UDP or TCP) from the NordVPN website.\n2. Log in to your router's admin panel.\n3. Navigate to the VPN Client tab.\n4. Upload the configuration file.\n5. Enter your NordVPN service credentials (found in your Nord Account dashboard under 'Manual Setup', NOT your email/password).\n6. Save and Apply."
+    },
+    {
+      "question": "What is the Kill Switch?",
+      "answer": "The Kill Switch is a security feature that automatically disconnects your device from the internet if your VPN connection drops. This prevents your IP address and data from being exposed accidentally.\n\nTo enable it:\n- **Windows/macOS:** Go to Settings > Kill Switch. You can choose the App Kill Switch (closes specific apps) or the Internet Kill Switch (disables system-wide internet)."
+    },
+    {
+      "question": "I forgot my password",
+      "answer": "If you have forgotten your password, you can reset it by following these steps:\n1. Go to the Nord Account login page.\n2. Click on 'Forgot your password?'.\n3. Enter your registered email address.\n4. Check your email for a reset link and follow the instructions to create a new password."
+    },
+    {
+      "question": "What is Threat Protection?",
+      "answer": "Threat Protection is a feature that provides safer browsing by blocking ads, trackers, and malicious websites. It also scans downloaded files for malware.\n\nThere are two versions:\n- **Threat Protection Pro (Windows/macOS):** Works at the system level, inspecting downloads and blocking threats even without a VPN connection.\n- **Threat Protection (Lite):** Works at the DNS level to block ads and malicious domains, requiring a VPN connection."
+    },
+    {
+      "question": "How do I get a Dedicated IP?",
+      "answer": "A Dedicated IP is an IP address used only by you, which helps avoid CAPTCHAs and access IP-restricted networks (like corporate systems or banking).\n\nYou can purchase a Dedicated IP as an add-on to your subscription via your Nord Account. Once purchased, you can connect to it specifically through the 'Dedicated IP' category in the server list."
+    },
+    {
+      "question": "Why does the app say 'Background process is not running'?",
+      "answer": "This error usually occurs on Windows when the NordVPN background service stops.\n\n**Fix:**\n1. Press `Ctrl + Alt + Del` and open Task Manager.\n2. Go to the 'Services' tab.\n3. Find `nordvpn-service`.\n4. Right-click it and select 'Start' or 'Restart'.\n5. Re-open the NordVPN app.\nIf this fails, reinstall the app."
     }
   ]
 }
-
 
